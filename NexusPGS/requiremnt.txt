@@ -1,0 +1,7 @@
+pip        23.1.2 
+pyodbc     4.0.39 
+PyQt5      5.15.9 
+PyQt5-Qt5  5.15.2 
+PyQt5-sip  12.12.1
+setuptools 67.8.0 
+wheel      0.40.0 
